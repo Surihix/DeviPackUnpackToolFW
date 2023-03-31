@@ -36,4 +36,4 @@ Refer to the [Format Structure](https://github.com/Surihix/DeviPackUnpackToolFW/
 archive file made with this app.
 
 The following additional package is used for Zlib compression and decompression:
-DotNetZip - https://www.nuget.org/packages/DotNetZip
+<br>DotNetZip - https://www.nuget.org/packages/DotNetZip
