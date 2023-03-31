@@ -1,6 +1,6 @@
 ## Format Structure
 
-**Note:** The path strings and the files which are packed inside the archive, uses the Zlib compression provided by the default System.IO.compression namespace. 
+**Note:** The path strings and the files which are packed inside the archive, uses the Zlib compression provided by the DotnetZip package's Ionic.Zlib namespace
 the compressed size value given in the table below is the size of the respective data when it is packed inside the archive.
 
 #### Header Section
