@@ -32,7 +32,7 @@ Here is the dot net core version of this app:
 <br>https://github.com/Surihix/DeviPackUnpackTool
 
 # For Developers
-Refer to the [Format Structure](https://github.com/Surihix/DeviPackUnpackTool/blob/master/FormatStruct.md) page to learn more about the structure of the 
+Refer to the [Format Structure](https://github.com/Surihix/DeviPackUnpackToolFW/blob/master/FormatStruct.md) page to learn more about the structure of the 
 archive file made with this app.
 
 The following additional package is used for Zlib compression and decompression:
