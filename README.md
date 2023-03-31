@@ -1,6 +1,6 @@
 # DeviPackUnpackToolFW
 This C# app allows you to make a simple archive file for a folder that contains files and sub folders. the files are compressed when it is packed into the 
-archive file with zlib compression and you have three levels of compression to choose from when making the archive file. 
+archive file with zlib compression and you have three levels of compression to choose from when making the archive file.
 
 The generated archive file will have the same name of the folder that was packed with ``.devi`` as the file extension.
 
@@ -35,3 +35,5 @@ Here is the dot net core version of this app:
 Refer to the [Format Structure](https://github.com/Surihix/DeviPackUnpackTool/blob/master/FormatStruct.md) page to learn more about the structure of the 
 archive file made with this app.
 
+The following additional package is used for Zlib compression and decompression:
+DotNetZip - https://www.nuget.org/packages/DotNetZip
